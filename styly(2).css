@@ -1,46 +1,54 @@
  * {
    margin: 0;
    padding: 0;
+   font-family:Roboto;
+   font-size: 35px;
  }
+
+ 
 .box1 {
   background-color: rgb(235, 161, 25);
   color: #fff;
   display: inline-block;
   width: 50%;
-  height: 345px;
-  font-size: 45px;
+  height: 50%;
+  text-align: center;
+  vertical-align:middle;
+  line-height: 10
 }
 
 .box2 {
-  background-color: rgb(201, 28, 28);
-  color: rgb(235, 161, 25);
-  
+  background-color:#fff;
+  color: rgb(212, 144, 17);
   display: inline-block;
   width:50%;
-  height: 345px;
-  border: 0px;
-  font-size: 45px;
-  margin: 0px;
+  height: 50%;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 10
+
 }
 
 .box3 {
-  background-color: rgb(17, 0, 0);
-  color: green;
+  background-color:#fff;
+  color: rgb(21, 226, 90);
   display: inline-block;
   width: 50%;
-  height: 345px;
-  border: 0px;
-  font-size: 45px;
-  margin: 0px;
+  height: 50%;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 10
+
 }
 
 .box4 {
-  background-color: green;
+  background-color: rgb(21, 226, 90);
   color: #fff;
   display: inline-block;
   width: 50%;
-  height: 345px;
-  border: 0px;
-  font-size: 45px;
-  margin: 0px;
+  height: 50%;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 10
+
 }
